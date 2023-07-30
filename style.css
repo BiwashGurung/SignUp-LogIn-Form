@@ -1,4 +1,3 @@
-/* Import Google font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -9,7 +8,7 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: grey;
+  background: whitesmoke;
 }
 .container{
   position: absolute;
@@ -66,7 +65,7 @@ body{
 }
 .form input.button{
   color: #fff;
-   background: #000;  /*<!gggg> */
+   background: #000;
   font-size: 1.2rem;
   font-weight: 500;
   letter-spacing: 1px;
